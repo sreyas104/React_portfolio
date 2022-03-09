@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sreyas104/React_portfolio.git/static/css/main.364004de.css",
+    "main.js": "/sreyas104/React_portfolio.git/static/js/main.f44bac72.js",
+    "static/media/propic.jpeg": "/sreyas104/React_portfolio.git/static/media/propic.e4c9e18244eaeaee4d0e.jpeg",
+    "static/media/propic2.jpeg": "/sreyas104/React_portfolio.git/static/media/propic2.4881e5cf247baa99bb31.jpeg",
+    "index.html": "/sreyas104/React_portfolio.git/index.html",
+    "main.364004de.css.map": "/sreyas104/React_portfolio.git/static/css/main.364004de.css.map",
+    "main.f44bac72.js.map": "/sreyas104/React_portfolio.git/static/js/main.f44bac72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364004de.css",
+    "static/js/main.f44bac72.js"
+  ]
+}
